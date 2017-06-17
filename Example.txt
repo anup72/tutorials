@@ -1,1 +1,1 @@
-Here is an example of Git
+Here is an example of Git.This line is added new to view the changes in the file.
